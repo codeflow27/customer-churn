@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/SANJAY/Downloads/full_churn_mlops_project/mlruns/461064248033856293/25a14d183f5b428ca17fa6161f2ea046/artifacts
+end_time: 1779449370911
+entry_point_name: ''
+experiment_id: '461064248033856293'
+lifecycle_stage: active
+run_id: 25a14d183f5b428ca17fa6161f2ea046
+run_name: sincere-vole-916
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779449356658
+status: 3
+tags: []
+user_id: Kunal

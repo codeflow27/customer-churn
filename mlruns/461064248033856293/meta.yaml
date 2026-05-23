@@ -1,0 +1,8 @@
+artifact_location: file:C:/Users/SANJAY/Downloads/full_churn_mlops_project/mlruns/461064248033856293
+creation_time: 1779449355269
+experiment_id: '461064248033856293'
+last_update_time: 1779449355269
+lifecycle_stage: active
+name: Customer_Churn
+trace_location: null
+workspace: default
