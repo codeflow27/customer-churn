@@ -54,9 +54,7 @@ MLflow:
 mlflow ui
 ```
 
-## Screenshots
 
-(Add MLflow + FastAPI screenshots)
 
 ## Improvements planned
 
